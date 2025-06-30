@@ -1,0 +1,10 @@
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\bin\Debug\WebSocket.exe.config
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\bin\Debug\WebSocket.exe
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\bin\Debug\WebSocket.pdb
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\bin\Debug\websocket-sharp.dll
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\bin\Debug\websocket-sharp.xml
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\obj\Debug\WebSocket.csproj.AssemblyReference.cache
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\obj\Debug\WebSocket.csproj.CoreCompileInputs.cache
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\obj\Debug\WebSocket.csproj.Up2Date
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\obj\Debug\WebSocket.exe
+C:\Users\korpu\OneDrive\Escritorio\Studies\C_VS\WebSockets\WebSocket\WebSocket\obj\Debug\WebSocket.pdb
